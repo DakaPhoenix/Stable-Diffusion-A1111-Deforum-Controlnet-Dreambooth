@@ -1,0 +1,20 @@
+{
+    "skip_video_for_run_all": false,
+    "fps": 15,
+    "make_gif": false,
+    "ffmpeg_location": "D:\\1std\\std\\venv\\lib\\site-packages\\imageio_ffmpeg\\binaries\\ffmpeg-win64-v4.2.2.exe",
+    "ffmpeg_crf": "17",
+    "ffmpeg_preset": "slow",
+    "add_soundtrack": "None",
+    "soundtrack_path": "https://freetestdata.com/wp-content/uploads/2021/09/Free_Test_Data_1MB_MP3.mp3",
+    "r_upscale_video": false,
+    "r_upscale_model": "realesr-animevideov3",
+    "r_upscale_factor": "x2",
+    "r_upscale_keep_imgs": true,
+    "store_frames_in_ram": false,
+    "frame_interpolation_engine": "None",
+    "frame_interpolation_x_amount": 2,
+    "frame_interpolation_slow_mo_enabled": false,
+    "frame_interpolation_slow_mo_amount": 2,
+    "frame_interpolation_keep_imgs": false
+}
